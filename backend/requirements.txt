@@ -11,3 +11,4 @@ httpx
 fastapi
 streamlit
 requests
+univorn
