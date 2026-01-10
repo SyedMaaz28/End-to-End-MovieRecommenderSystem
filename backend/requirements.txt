@@ -11,4 +11,4 @@ httpx
 fastapi
 streamlit
 requests
-unicorn
+uvicorn
