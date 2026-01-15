@@ -9,6 +9,6 @@ nltk
 scikit-learn
 httpx
 fastapi
+uvicorn
 streamlit
 requests
-uvicorn
